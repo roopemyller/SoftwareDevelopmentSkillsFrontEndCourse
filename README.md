@@ -1,4 +1,4 @@
-This is my SDS FrontEnd course repository.
+This is my (Roope Myller) SDS FrontEnd course repository.
 
 In project folder is my project and there is separate readme to explain that.
 
