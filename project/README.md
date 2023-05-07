@@ -1,6 +1,6 @@
-This is my Software Development Skills couse project
+This is my Software Development Skills course project
 
-Here you can find my couse project
+Here you can find my course project
 
 This website is inspired by the Lappeenrannan teekkarireserviläiset website.
 I have been updating the Lateres web page and I thought that I could do it from the ground up as a project for this course.
@@ -14,4 +14,7 @@ I have also left some things out of the original website.
 
 The deployed website can be accessed here: 
 https://roopemyller.github.io/SDSProject 
+
+It's deployed from separate repository that can be found here: 
+https://github.com/roopemyller/SDSProject
 
